@@ -1,0 +1,56 @@
+'(^< ............ ............ ............  Form
+width(Ancho): 835
+height(Alto): 710
+prefix:frm
+FormBorderStyle:FixedDialog
+MaximumSize = 835,710
+MinimumSize = 835,710
+MinimizeBox = False
+MaximizeBox = False
+
+'(^< ............ ............ ............  Admin Buttons
+width(Ancho): 115
+height(Alto): 50
+prefix:btn
+
+Font=Microsoft Sans Serif
+Fontstyle = Bold
+Size = 8pt
+ImageAling = MiddleLeft
+TextAling  = MiddleRight
+
+'(^< ............ ............ ............  Regular Buttons
+width(Ancho): ---
+height(Alto): 26
+prefix:btn
+
+'(^< ............ ............ ............  TextBox
+width(Ancho): 400
+height(Alto): 21
+prefix:tbox
+
+Font = Microsoft Sans Serif
+Fontstyle = Regular
+Size = 9pt
+
+'(^< ............ ............ ............  MaskedTextBox
+width(Ancho): 400
+height(Alto): 21
+prefix:tbox
+
+Font=Microsoft Sans Serif
+Fontstyle = Bold
+Size = 8pt
+
+TextMaskFormat = ExcludePromptAndLiterals
+
+'(^< ............ ............ ............  DataGridView
+width(Ancho): 795
+height(Alto): 181
+prefix:dgv
+
+'(^< ............ ............ ............  ComboBox
+width(Ancho): 21
+height(Alto): ---
+prefix:combox
+
